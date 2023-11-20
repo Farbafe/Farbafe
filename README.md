@@ -1,3 +1,3 @@
-👋 Hi, I’m @Farbafe or Yehya Eldeeb. I'm a mechanical engineer with a strong passion for computer science since young.
+👋 Hi, I’m @Farbafe or Yehya Eldeeb and am currently a software engineer at Rasayel. My work repos are on a different account but here I share my personal projects.
 
-Have a look at the projects I've shared on GitHub and if you find any areas for collaborations let me know :)
+Have a look at the projects I've shared on GitHub and if you find any areas for collaborations let me know!
